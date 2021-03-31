@@ -1,0 +1,13 @@
+Olá, tudo bem?
+
+Muito obrigada por se inscrever no evento!
+
+Estes foram os dados que você forneceu
+na inscração:
+
+Nome: {{ name }}
+Email: {{ email }}
+CPF: {{ cpf }}
+Telefone: {{ phone }}
+
+Att. Morena
